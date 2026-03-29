@@ -62,12 +62,12 @@ I'm passionate about building end-to-end web architectures, diverse mobile appli
 ## 📊 GitHub Analytics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandip4083&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Sandip's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sandip4083&theme=radical&hide_border=false" alt="Sandip's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandip4083&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Sandip's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandip4083&theme=radical&hide_border=false" alt="Sandip's GitHub Streak" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandip4083&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Sandip's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandip4083&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sandip's Top Languages" />
 </div>
 
 ### 🔝 Top Contributed Repositories
@@ -77,7 +77,7 @@ I'm passionate about building end-to-end web architectures, diverse mobile appli
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Sandip4083&icon=0&color=0" alt="Profile View Counter" />
+  <a href="https://github.com/Sandip4083">
+    <img src="https://komarev.com/ghpvc/?username=Sandip4083&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile View Counter" />
   </a>
 </div>
