@@ -62,17 +62,18 @@ I'm passionate about building end-to-end web architectures, diverse mobile appli
 ## 📊 GitHub Analytics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandip4083&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Sandip's GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sandip4083&theme=radical&hide_border=false" alt="Sandip's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandip4083&theme=radical&hide_border=false" alt="Sandip's GitHub Streak" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandip4083&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sandip's Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sandip4083&theme=radical&hide_border=false&layout=compact" alt="Sandip's Top Languages" />
 </div>
 
-### 🔝 Top Contributed Repositories
+### 🔝 Top / Featured Repositories
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sandip4083&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top repos" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Sandip4083&repo=silentping-app&theme=radical" alt="SilentPing Repo" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Sandip4083&repo=KiitGo-Transport-System&theme=radical" alt="KIITGO Repo" />
 </div>
 
 ---
@@ -81,3 +82,4 @@ I'm passionate about building end-to-end web architectures, diverse mobile appli
     <img src="https://komarev.com/ghpvc/?username=Sandip4083&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile View Counter" />
   </a>
 </div>
+
